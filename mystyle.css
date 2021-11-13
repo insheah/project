@@ -1,0 +1,159 @@
+body {
+    background-color:wheat;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: peru ;
+}
+
+a:hover {
+    color: saddlebrown;
+}
+
+:active {
+    color: salmon;
+}
+
+a:visited {
+    color: tomato;
+}
+
+.firstp {
+    background-color: rgb(255, 252, 246);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.firstp h1 {
+    background-color: rgb(255, 252, 246);
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+.firstp p {
+    text-align: center;
+}
+
+.secondp {
+    background-color:rgb(253, 248, 236);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.secondp h1 {
+    text-align: center;
+    background-color: rgb(253, 248, 236);
+    position: sticky;
+    top: 0;
+}
+
+.thirdp {
+    background-color: rgb(255, 252, 246);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.thirdp .thirdpt {
+    position: relative;
+    margin-left: 20px;
+    
+}
+
+.fourthp {
+    background-color:rgb(253, 248, 236);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.fourthp .fourthpt {
+    margin-left: 10px;
+
+}
+
+.fourthp .fourthpi {
+
+}
+
+.fifthp {
+    background-color: rgb(255, 252, 246);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.fifthp .fifthpt {
+
+}
+
+.fifthp .fifthpi {
+
+}
+
+.sixthp {
+    background-color:rgb(253, 248, 236);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sixthp .sixthpt {
+
+}
+
+.sixthp .sixthpi {
+
+}
+
+.seventhp {
+    background-color: rgb(255, 252, 246);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;    
+}
+
+.seventhp .seventhpt {
+
+}
+
+.seventhp .seventhpi {
+
+}
+
+.footer img{
+    width: 50px;
+    height: 50px;
+    position:fixed;
+    right: 10px;
+    bottom: 15px;
+
+}
+
